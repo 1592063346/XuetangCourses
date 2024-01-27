@@ -24,6 +24,10 @@ comments: true
 
 ## 第二章
 
+!!! question "$A^-$ 是什么意思？"
+
+    假设命题公式 $A$ 依赖变元 $P_1, \cdots, P_n$，即 $A = A(P_1, \cdots, P_n)$，那么 $A^- = A(\neg P_1, \cdots, \neg P_n)$，即在原表达式中用 $\neg P_i$ 替换 $P_i$。
+
 ## 第三章
 
 !!! question "罗素公理系统没太学明白？"
